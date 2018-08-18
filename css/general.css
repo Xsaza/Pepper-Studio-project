@@ -1,0 +1,10 @@
+body {
+	margin: 0px;
+}
+
+#map {
+	height: 980px;
+	background-image: url(../img/Map.png);
+	background-size: 100% 980px;
+	position: relative;
+}
